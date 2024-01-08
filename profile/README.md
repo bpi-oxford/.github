@@ -1,4 +1,12 @@
-## Hi there 👋
+# Biophysical Immunology (BPI) Fritzsche Laboratory
+
+![alt text](../img/Background_image.png "Biophysical Immunology Laboratory, University of Oxford")
+
+The Biophysical Immunology Laboratory develops and provides novel and innovative open-source software.
+
+## Contacts
+- Prof. Marco Fritzsche, [marco.fritzsche@kennedy.ox.ac.uk ](mailto:marco.fritzsche@kennedy.ox.ac.uk )
+- Jacky Ka Long Ko, PhD [ka.ko@kennedy.ox.ac.uk](mailto:ka.ko@kennedy.ox.ac.uk)
 
 <!--
 
