@@ -1,6 +1,6 @@
 # Biophysical Immunology (BPI) Fritzsche Laboratory
 
-![alt text](./img/Background_image.png "Biophysical Immunology Laboratory, University of Oxford")
+![alt text](../img/Background_image.png "Biophysical Immunology Laboratory, University of Oxford")
 
 The Biophysical Immunology Laboratory develops and provides novel and innovative open-source software.
 
